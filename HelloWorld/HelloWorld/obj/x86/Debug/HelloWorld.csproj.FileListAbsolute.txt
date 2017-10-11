@@ -1,0 +1,5 @@
+/Users/evanw8/Desktop/repos/HelloWorld/C-HelloWorld/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/evanw8/Desktop/repos/HelloWorld/C-HelloWorld/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/evanw8/Desktop/repos/HelloWorld/C-HelloWorld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/evanw8/Desktop/repos/HelloWorld/C-HelloWorld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/evanw8/Desktop/repos/HelloWorld/C-HelloWorld/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
